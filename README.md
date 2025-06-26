@@ -1,8 +1,8 @@
-<a href="https://vscode.dev/github/YOUR_USERNAME/YOUR_REPOSITORY_NAME">
+<a href="https://vscode.dev/github/DeNoella/intro-pythion-lab">
   <img src="https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" alt="Open in Visual Studio Code">
 </a>
 
-## GROUP MEMBERS
+## 👥 GROUP MEMBERS
 
 1. 26511  Jospin Nabonyimana
 2. 26599  Mutesi Ange de Noella
