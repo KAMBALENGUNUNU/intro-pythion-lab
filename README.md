@@ -1,7 +1,7 @@
 ## GROUP MEMBERS
 
 1. 26511  Jospin Nabonyimana
-2.
+2. 26599  Mutesi Ange de Noella
 3.
 4.
 5. 25918  INGABIRE NZARAMBA Ritha 25918
