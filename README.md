@@ -1,6 +1,7 @@
 <a href="https://vscode.dev/github/YOUR_USERNAME/YOUR_REPOSITORY_NAME">
   <img src="https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" alt="Open in Visual Studio Code">
 </a>
+
 ## GROUP MEMBERS
 
 1. 26511  Jospin Nabonyimana
