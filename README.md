@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=YOUR_REPO_ID)
 ## GROUP MEMBERS
 
 1. 26511  Jospin Nabonyimana
@@ -10,7 +11,7 @@
 
 
 
-**Question I: Age Calculator Using a Function**
+** 🚀 Question I: Age Calculator Using a Function**
 This program will ask for your name and year of birth, then use a function to calculate your age as of 2025.
 
 Method:
@@ -49,7 +50,7 @@ print(f"Thank you {user_name}, your age is: {user_age}")
 ![alt text](screenshots/q1.PNG)
 
 
-**Question II: Check Palindrome**
+** 🚀 Question II: Check Palindrome**
 This function checks if a word or phrase entered by the user is a palindrome (reads the same forwards and backwards).
 
 Method:
@@ -91,7 +92,7 @@ check_palindrome()
 ![alt text](screenshots/q2.PNG)
 
 
-***Question III: Iterating Over Two Text Inputs***
+*** 🚀 Question III: Iterating Over Two Text Inputs***
 This function takes two separate texts from the user, combines them, and then creates a list of every character in the combined text.
 
 Method:
@@ -130,6 +131,8 @@ combine_and_iterate()
 ```
 
 ![alt text](screenshots/q3.PNG)
-## License
+## 📝 License <a name="license"></a>
 
-This project is licensed under the [MIT License](LICENSE).
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
