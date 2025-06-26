@@ -14,7 +14,7 @@
 
 
 
-** 🚀 Question I: Age Calculator Using a Function**
+* 🚀 Question I: Age Calculator Using a Function *
 This program will ask for your name and year of birth, then use a function to calculate your age as of 2025.
 
 Method:
@@ -53,7 +53,7 @@ print(f"Thank you {user_name}, your age is: {user_age}")
 ![alt text](screenshots/q1.PNG)
 
 
-** 🚀 Question II: Check Palindrome**
+### 🚀 Question II: Check Palindrome ###
 This function checks if a word or phrase entered by the user is a palindrome (reads the same forwards and backwards).
 
 Method:
