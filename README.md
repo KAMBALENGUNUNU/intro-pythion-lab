@@ -14,7 +14,7 @@
 
 
 
-* 🚀 Question I: Age Calculator Using a Function *
+# 🚀 Question I: Age Calculator Using a Function 
 This program will ask for your name and year of birth, then use a function to calculate your age as of 2025.
 
 Method:
