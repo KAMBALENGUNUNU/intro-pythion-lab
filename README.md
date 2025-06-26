@@ -8,7 +8,7 @@
 2. 26599  Mutesi Ange de Noella
 3. 24251  Kambale Ngununu Daniel
 4. 25230 Nsengiyumva Ngabo Cedric
-5. 25918  INGABIRE NZARAMBA Ritha 25918
+5. 25918  INGABIRE NZARAMBA Ritha
 6. 27088  MUSHIMIRE Victor 
 
 
