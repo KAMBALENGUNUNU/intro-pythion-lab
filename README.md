@@ -53,7 +53,7 @@ print(f"Thank you {user_name}, your age is: {user_age}")
 ![alt text](screenshots/q1.PNG)
 
 
-### 🚀 Question II: Check Palindrome ###
+# 🚀 Question II: Check Palindrome
 This function checks if a word or phrase entered by the user is a palindrome (reads the same forwards and backwards).
 
 Method:
@@ -95,7 +95,7 @@ check_palindrome()
 ![alt text](screenshots/q2.PNG)
 
 
-*** 🚀 Question III: Iterating Over Two Text Inputs***
+# 🚀 Question III: Iterating Over Two Text Inputs
 This function takes two separate texts from the user, combines them, and then creates a list of every character in the combined text.
 
 Method:
