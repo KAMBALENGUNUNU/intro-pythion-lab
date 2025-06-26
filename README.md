@@ -130,3 +130,6 @@ combine_and_iterate()
 ```
 
 ![alt text](screenshots/q3.PNG)
+## License
+
+This project is licensed under the [MIT License](LICENSE).
