@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=YOUR_REPO_ID)
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/git-for-windows/git)
 ## GROUP MEMBERS
 
 1. 26511  Jospin Nabonyimana
