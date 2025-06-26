@@ -2,7 +2,7 @@
 
 1. 26511  Jospin Nabonyimana
 2. 26599  Mutesi Ange de Noella
-3.
+3. 24251  Kambale Ngununu Daniel
 4.
 5. 25918  INGABIRE NZARAMBA Ritha 25918
 6. 27088  MUSHIMIRE Victor 
